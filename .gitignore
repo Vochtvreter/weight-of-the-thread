@@ -1,0 +1,25 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor swap files and document lock files
+*.swp
+*.swo
+~$*
+.~lock.*#
+
+# Local environment files for optional scripts
+.env
+.env.local
+.env.*.local
+
+# Python environments and caches
+.venv/
+__pycache__/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# JavaScript dependencies
+node_modules/
