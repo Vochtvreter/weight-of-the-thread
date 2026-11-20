@@ -4,4 +4,5 @@ Record significant changes to project organization, canon decisions, outline mil
 
 ## Unreleased
 
+- Documented canon statuses, author approval, and draft preservation for AI-assisted collaboration.
 - Established the project structure and added maintenance documentation.
