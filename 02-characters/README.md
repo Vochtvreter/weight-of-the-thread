@@ -5,3 +5,5 @@ Keep character profiles, relationships, and arcs here. Link to the outline or ma
 Provisional profiles from the import: [Elias Voss](elias-voss.md), [Marcus Hale](marcus-hale.md), and [Lena Sato](lena-sato.md).
 
 [Ava's approved identity and dramatic function](../01-story-bible/elias-marcus-ai-relationship.md#the-ai-interfaces-dramatic-function) are recorded in the Story Bible.
+
+[Ava’s character profile](ava.md) also includes provisional appearance notes and a portrait.

@@ -4,6 +4,7 @@ Record significant changes to project organization, canon decisions, outline mil
 
 ## Unreleased
 
+- 2026-11-21 — Added [Ava’s character profile](02-characters/ava.md), provisional appearance notes, and a public-facing portrait.
 - 2026-11-21 — Added the first draft of “Stay Until Morning” and recorded its approved father–son beats and Ava's nonphysical avatar. Linked the scene to the character arcs, provisionally placed it before the Valve, and tracked unresolved technical and timeline details. [Manuscript scene](04-manuscript/drafts/01-01-stay-until-morning.md) · [Story Bible](01-story-bible/elias-marcus-ai-relationship.md#stay-until-morning)
 - 2026-11-21 — Recorded Ava, short for *Avatar*, as the female-presenting interface to the decentralized superintelligence and Elias's personalized companion. Her presentation adapts without genuine emotional growth. [Story Bible](01-story-bible/elias-marcus-ai-relationship.md#the-ai-interfaces-dramatic-function)
 - 2026-11-21 — Recorded the approved Elias–Marcus–AI relationship arc, Elias's age of eighteen, and the interface's consistent dramatic function. Added provisional scene development and tracked unresolved mechanics. [Story Bible](01-story-bible/elias-marcus-ai-relationship.md) · [Relationship outline](03-outlines/elias-marcus-ai-relationship-arc.md)
