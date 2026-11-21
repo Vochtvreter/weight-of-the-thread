@@ -2,13 +2,14 @@
 
 **Target length** 6,000–9,000 words
 
-**Approximate words drafted** 0
+**Approximate words drafted** 750
 
-The initial rows use the four-chapter grouping from one [provisional outline variant](../03-outlines/imported-causal-spine.md#chapter-and-diagram-variants). Adjust the rows as chapter boundaries are decided. Working titles are blank.
+The rows use the four-chapter grouping from one [provisional outline variant](../03-outlines/imported-causal-spine.md#chapter-and-diagram-variants). “Stay Until Morning” has a provisional slot before the Valve in Chapter 1. Its emotional beats are approved and the prose is a first draft.
 
 | Order | Working title | Status | Approx. words | Outline reference | File |
 | --- | --- | --- | ---: | --- | --- |
-| 01 | — | OUTLINED | 0 | [Beats A–C](../03-outlines/imported-causal-spine.md#imported-causal-spine) | — |
+| 01.01 | Stay Until Morning | FIRST DRAFT | 750 | [Early relationship beat](../03-outlines/imported-causal-spine.md#stay-until-morning-provisional-placement) | `drafts/01-01-stay-until-morning.md` |
+| 01.02 | — | OUTLINED | 0 | [Beats A–C](../03-outlines/imported-causal-spine.md#imported-causal-spine) | — |
 | 02 | — | OUTLINED | 0 | [Beat D](../03-outlines/imported-causal-spine.md#imported-causal-spine) | — |
 | 03 | — | OUTLINED | 0 | [Beats E–F](../03-outlines/imported-causal-spine.md#imported-causal-spine) | — |
 | 04 | — | OUTLINED | 0 | [Beat G](../03-outlines/imported-causal-spine.md#imported-causal-spine) | — |

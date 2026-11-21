@@ -5,6 +5,8 @@ canon_status: provisional
 
 # Imported causal spine
 
+Use the [Elias, Marcus, and Ava relationship outline](elias-marcus-ai-relationship-arc.md) alongside this technical spine. Its scene labels describe an independent development sequence. Interleaving is open, including how Marcus's absence fits around his appearances in the Empty Rack and the Pattern.
+
 The early outline centers on capable engineers, logistics personnel, medical staff, and analysts trying to keep the habitat and city alive. Earlier choices keep enough systems and data operating to discover a genuine fix. Those choices also leave too little of the material needed to use or send it. The precise link between each decision and each resource loss is open. [Original transcript, Outline Evolution and Story Web / Beats](../07-archive/imports/codex-prompt-4/sources/original_export/transcript.txt)
 
 | Beat | Early export | Later development |
@@ -18,6 +20,10 @@ The early outline centers on capable engineers, logistics personnel, medical sta
 | G. The Blister | Elias writes from the observation blister while Earth dies. Knowledge fails to reach Earth and humanity ultimately goes extinct in the early premise. | The cinematic diagram shows Elias recording the decisions as Earth goes dark. Later notes keep the public synopsis spoiler-free. |
 
 [Original transcript](../07-archive/imports/codex-prompt-4/sources/original_export/transcript.txt) · [Original SVG](../07-archive/imports/codex-prompt-4/sources/original_export/story_web.svg) · [Later handoff, Plot and Alternative Path](../07-archive/imports/codex-prompt-4/handoff/CONVERSATION_HANDOFF.md) · [Cinematic diagram](../07-archive/imports/codex-prompt-4/artwork/causal_spine_cinematic_infographic.png)
+
+## Stay Until Morning (provisional placement)
+
+Place the [first draft](../04-manuscript/drafts/01-01-stay-until-morning.md) provisionally before the Valve in the current Chapter 1 layout. The scene needs an overnight interval early in the story and before the falling out. Elias freezes during a frightening emergency and withdraws in shame. Marcus finds him and stays, establishing the fatherly care Elias will understand differently after Marcus is gone. Let the Valve and Empty Rack retain their existing causal link. Confirm the opening order and the alarm's relation, if any, to the station crisis before fixing the placement. [Relationship development](elias-marcus-ai-relationship-arc.md#stay-until-morning)
 
 ## Chapter and diagram variants
 

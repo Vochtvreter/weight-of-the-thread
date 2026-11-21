@@ -2,6 +2,10 @@
 
 Keep established canon and worldbuilding here, including history, technology, and society. Label provisional material and link unresolved canon decisions to [Open Questions](../OPEN_QUESTIONS.md).
 
+## Approved canon
+
+- [Elias, Marcus, and Ava](elias-marcus-ai-relationship.md)
+
 ## Provisional import
 
 - [Creative brief](creative-brief.md)
