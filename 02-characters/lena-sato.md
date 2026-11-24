@@ -5,6 +5,10 @@ canon_status: provisional
 
 # Lena Sato
 
+![Archived pencil portrait with an L. Sato Habitat Operations patch](../07-archive/imports/codex-prompt-4/sources/original_export/rendered/VEHHz.jpg)
+
+*Provisional reference.*
+
 ## Habitat operations
 
 Lena oversees the entire habitat's operations through sector leads. She uses her tablet throughout the day to verify that the pipelines and logistics she set up are working. She compares live readings against forecasts and runs advanced simulations to see how failures could spread or interact. Thinking through consequences several steps ahead is part of what makes her good at the job.

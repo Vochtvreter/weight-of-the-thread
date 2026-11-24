@@ -4,6 +4,10 @@ canon_id: import-marcus-hale
 
 # Marcus Hale
 
+![Archived pencil portrait tentatively identified as Marcus Hale](../07-archive/imports/codex-prompt-4/sources/original_export/rendered/GhgAa.jpg)
+
+*Provisional reference · tentative identification.*
+
 ## Approved relationship and character direction
 
 Marcus is a human mentor who genuinely cares about Elias. He remembers prewar Earth, which gives him a different perspective on human relationships, autonomy, and dependence on AI. He can be tired, mistaken, frustrated, or unavailable. He can disagree with Elias and still choose to stand beside him. [Story Bible](../01-story-bible/elias-marcus-ai-relationship.md)

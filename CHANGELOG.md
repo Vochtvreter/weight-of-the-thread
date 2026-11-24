@@ -4,6 +4,7 @@ Record significant changes to project organization, canon decisions, outline mil
 
 ## Unreleased
 
+- 2026-11-24 — Added the [GitHub Pages story navigator](docs/index.html) and embedded archived portrait references in the [Elias](02-characters/elias-voss.md), [Marcus](02-characters/marcus-hale.md), and [Lena](02-characters/lena-sato.md) profiles.
 - 2026-11-24 — Added Marcus's social life, technical experience, and autonomy regret to the working profiles. Recorded the falling out, partial reconciliation, and sacrifice from both characters' perspectives. [Marcus](02-characters/marcus-hale.md) · [Elias](02-characters/elias-voss.md#provisional-falling-out-and-loss)
 - 2026-11-24 — Expanded [Lena Sato’s working profile](02-characters/lena-sato.md) and outlined a [provisional handover beat](03-outlines/imported-causal-spine.md#lena-at-handover-provisional).
 - 2026-11-21 — Added [Ava’s character profile](02-characters/ava.md), provisional appearance notes, and a public-facing portrait.

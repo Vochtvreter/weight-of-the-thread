@@ -4,6 +4,10 @@ canon_id: import-elias-voss
 
 # Elias Voss
 
+![Archived pencil portrait tentatively identified as Elias Voss](../07-archive/imports/codex-prompt-4/sources/original_export/rendered/AFabk.jpg)
+
+*Provisional reference · tentative identification.*
+
 ## Approved emotional development
 
 Elias is **18** during the story. His progression runs through seven stages. [Story Bible](../01-story-bible/elias-marcus-ai-relationship.md)
