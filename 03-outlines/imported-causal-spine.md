@@ -25,6 +25,16 @@ The early outline centers on capable engineers, logistics personnel, medical sta
 
 Place the [first draft](../04-manuscript/drafts/01-01-stay-until-morning.md) provisionally before the Valve in the current Chapter 1 layout. The scene needs an overnight interval early in the story and before the falling out. Elias freezes during a frightening emergency and withdraws in shame. Marcus finds him and stays, establishing the fatherly care Elias will understand differently after Marcus is gone. Let the Valve and Empty Rack retain their existing causal link. Confirm the opening order and the alarm's relation, if any, to the station crisis before fixing the placement. [Relationship development](elias-marcus-ai-relationship-arc.md#stay-until-morning)
 
+## Lena at handover (provisional)
+
+Try this as a short Chapter 1 beat before the Valve, during an ordinary shift handover Elias can witness. It can fit where the opening needs a glimpse of how habitat operations work. The order relative to “Stay Until Morning” is open.
+
+1. A sector lead mentions that a routine delivery is still inside its allotted window. Lena sees that the receiving sector has a second job booked against the same remaining time. She flags the slack zone and asks him to sort it out with the receiving lead.
+2. He points out a schedule change she missed. Lena pulls it up, asks when it took effect, and updates her forecast. He takes the follow-up, then tells her to go get some sleep. She starts to open another forecast, closes it, and leaves him the shift.
+3. As they walk out, Elias sees her reopen a half-finished Switchyard grid. She marks a tentative turn and puts the tablet away.
+
+The crew gets a routine problem in hand, and Elias sees Lena give a correction the same attention she expects when she raises a warning. The beat establishes how sound judgment and an honest handover usually serve her before the two later calls put that judgment under strain. [Lena’s profile](../02-characters/lena-sato.md)
+
 ## Chapter and diagram variants
 
 - The SVG and horizontal JPEG group A–C in Chapter 1, D in Chapter 2, E–F in Chapter 3, and G in Chapter 4.
