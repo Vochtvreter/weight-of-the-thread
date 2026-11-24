@@ -15,12 +15,12 @@ Track decisions that affect the story or its development. For each entry, record
 
 Use these questions to develop the [provisional scene sequence](03-outlines/elias-marcus-ai-relationship-arc.md#provisional-scene-sequence) within the [approved relationship arc](01-story-bible/elias-marcus-ai-relationship.md).
 
-1. What causes Elias and Marcus's falling out? Where does it happen, and what do they say?
+1. What immediate pressure brings the twenty-year autonomy plan into the argument? Where does the falling out happen, and what do they say? [Marcus's autonomy conflict](02-characters/marcus-hale.md#provisional-autonomy-conflict)
 2. How much does Marcus understand about Elias's attachment to Ava?
-3. Does Marcus confront Elias about Ava, or is their disagreement about something more consequential?
-4. What does Marcus want or fear independently of Elias? Which values, regrets, or limits inform his choices?
-5. How and when does Marcus become permanently unavailable within the station crisis? Does he have a final conversation with Elias?
-6. Does Elias attempt reconciliation before it is too late?
+3. Does Marcus raise Elias's attachment to Ava during or separately from the autonomy dispute?
+4. What made a five-year transition feasible in Marcus's view, what led to the twenty-year plan, and when was it adopted relative to the war and the habitat's assembly? [Historical timeline](01-story-bible/historical-timeline.md)
+5. Which part of the habitat crisis lets Marcus reduce Elias's risk while still having a credible chance to escape? Where does his death sit relative to the Pattern? How does the narration show Marcus's choice to the reader while Elias remains unaware? [Marcus's death beat](02-characters/marcus-hale.md#provisional-reconciliation-and-death)
+6. What do Elias and Marcus do to begin repairing their relationship, and what conversation is still ahead of them when Marcus dies? The working profiles add a genuine partial repair. Review the approved arc's wording about loss before meaningful repair when reconciling the beats. [Elias's profile](02-characters/elias-voss.md#provisional-falling-out-and-loss) · [Story Bible](01-story-bible/elias-marcus-ai-relationship.md)
 7. What specific event makes Elias recognize that Ava's responses simulate genuine affection?
 8. What does Elias request during the final crisis, and what operational priority or constraint causes Ava to refuse?
 9. How can the final revelation emerge without an implausibly convenient diagnostic record?

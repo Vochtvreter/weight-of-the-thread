@@ -4,6 +4,7 @@ Record significant changes to project organization, canon decisions, outline mil
 
 ## Unreleased
 
+- 2026-11-24 — Added Marcus's social life, technical experience, and autonomy regret to the working profiles. Recorded the falling out, partial reconciliation, and sacrifice from both characters' perspectives. [Marcus](02-characters/marcus-hale.md) · [Elias](02-characters/elias-voss.md#provisional-falling-out-and-loss)
 - 2026-11-24 — Expanded [Lena Sato’s working profile](02-characters/lena-sato.md) and outlined a [provisional handover beat](03-outlines/imported-causal-spine.md#lena-at-handover-provisional).
 - 2026-11-21 — Added [Ava’s character profile](02-characters/ava.md), provisional appearance notes, and a public-facing portrait.
 - 2026-11-21 — Added the first draft of “Stay Until Morning” and recorded its approved father–son beats and Ava's nonphysical avatar. Linked the scene to the character arcs, provisionally placed it before the Valve, and tracked unresolved technical and timeline details. [Manuscript scene](04-manuscript/drafts/01-01-stay-until-morning.md) · [Story Bible](01-story-bible/elias-marcus-ai-relationship.md#stay-until-morning)
