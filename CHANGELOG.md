@@ -4,6 +4,10 @@ Record significant changes to project organization, canon decisions, outline mil
 
 ## Unreleased
 
+- 2026-11-24 — Added Marcus’s and Lena’s provisional [habitat policy permissions](01-story-bible/habitat-society-and-technology.md#habitat-ai-policy) and tied Ava’s refusal and Marcus’s death to the [safety rule Marcus writes for Elias](03-outlines/imported-causal-spine.md#working-sequence-provisional).
+
+- 2026-11-24 — Aligned the provisional [crisis and relationship sequence](03-outlines/imported-causal-spine.md#working-sequence-provisional) and corrected [Elias’s working birth year](01-story-bible/historical-timeline.md) to fit his approved age.
+
 - 2026-11-21 — Added [Ava’s character profile](02-characters/ava.md), provisional appearance notes, and a public-facing portrait.
 - 2026-11-21 — Added the first draft of “Stay Until Morning” and recorded its approved father–son beats and Ava's nonphysical avatar. Linked the scene to the character arcs, provisionally placed it before the Valve, and tracked unresolved technical and timeline details. [Manuscript scene](04-manuscript/drafts/01-01-stay-until-morning.md) · [Story Bible](01-story-bible/elias-marcus-ai-relationship.md#stay-until-morning)
 - 2026-11-21 — Recorded Ava, short for *Avatar*, as the female-presenting interface to the decentralized superintelligence and Elias's personalized companion. Her presentation adapts without genuine emotional growth. [Story Bible](01-story-bible/elias-marcus-ai-relationship.md#the-ai-interfaces-dramatic-function)

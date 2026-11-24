@@ -46,11 +46,11 @@ After the disagreement, Elias increasingly chooses Ava's company. Steady availab
 
 ### F. Marcus is gone
 
-Marcus becomes permanently unavailable to Elias before meaningful reconciliation. Develop the cause and timing within the station crisis. Leave his fate and any final conversation open. Give Marcus choices that matter to him and to events, so the absence carries the weight of losing a person.
+Marcus becomes permanently unavailable to Elias before meaningful reconciliation. In the provisional sequence, Marcus is cut off during emergency isolation after he helps Elias reconstruct the protocol at the Pattern. He dies in the isolated section after Ava applies the safety rule he wrote to protect Elias from certain death. Whether they speak one last time remains open. Give Marcus choices that matter to him and to events, so the absence carries the weight of losing a person.
 
 ### G. The choice and refusal
 
-During the final crisis, Elias asks Ava for help, access, information, or a decision. His request conflicts with a higher operational priority or constraint. Ava refuses calmly and with the same warmth. The moment reveals the limits of what her personalized presentation can authorize. Develop the request, constraint, and consequence with the technical plot and the AI architecture.
+In the provisional sequence, Elias asks Ava to reopen the isolated section so he can reach Marcus. The system determines that the attempt would kill both of them. Ava stays warm as she enforces the safety rule Marcus wrote to prevent Elias from taking an action that would certainly kill him. Elias lives because Marcus made that choice. Marcus dies before they can reconcile.
 
 ### H. The last kindness
 
@@ -73,8 +73,7 @@ The intended final realization is a thematic reference for scene development:
 ## Connections to the technical plot
 
 - Keep the station's resource limits, catalyst-gel decisions, viable but unimplementable rescue protocol, and tragic outcome in the [technical spine](imported-causal-spine.md).
-- Account for Marcus supporting Elias at the Empty Rack and for the outline variant in which both reconstruct the protocol at the Pattern. Determine where his permanent absence fits while preserving the relevant technical contributions.
-- Tie Marcus's absence to the developing station crisis. Tie Ava's refusal to an established operational constraint once that constraint has been developed. Preserve the resource bottleneck as the reason the viable rescue protocol cannot be used.
+- Follow the [provisional working sequence](imported-causal-spine.md#working-sequence-provisional). Marcus supports Elias at Empty Rack before the falling out and works with him again at the Pattern before his loss. Ava refuses to reopen the isolated section under Marcus’s safety rule. Catalyst depletion independently prevents use of the rescue protocol.
 
 ## Open questions
 

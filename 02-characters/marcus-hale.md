@@ -12,6 +12,10 @@ Marcus is a human mentor who genuinely cares about Elias. He remembers prewar Ea
 
 In the falling out, Marcus needs a defensible position and agency of his own. Develop the disagreement so it reveals a value, fear, regret, or limitation that matters to Marcus independently of Elias. His eventual absence should carry the weight of losing a person with an inner life. His independent stakes, specific choices, and the circumstances of his permanent absence remain open. [Relationship outline](../03-outlines/elias-marcus-ai-relationship-arc.md) · [Open questions](../OPEN_QUESTIONS.md#elias-marcus-and-the-ai-interface)
 
+## Provisional habitat role
+
+Marcus can write habitat AI safety rules. His rule protecting Elias from certain death is what Ava enforces when Elias tries to reach him during the isolation crisis. [Working sequence](../03-outlines/imported-causal-spine.md#working-sequence-provisional)
+
 ## Provisional import details
 
 The early export describes an exceptionally capable mentor in his late forties. He works with Elias on math and simulations, supports him emotionally after difficult decisions, and would sacrifice his own life for Elias to have one. [Original transcript, Characters and Story Web / Beats](../07-archive/imports/codex-prompt-4/sources/original_export/transcript.txt)

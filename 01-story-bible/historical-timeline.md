@@ -17,8 +17,8 @@ The early export places the story at the cusp of space colonization after an AI-
 | 2084–2086 | Orbital evacuation and assembly of the lifeboat habitat. |
 | 2087 | Continuity Charter and formation of the Emergency Continuity Authority. |
 | 2088–2095 | Human Continuity Initiative evolves from voluntary planning toward compulsion. |
-| 2096–2105 | Maintenance era and technical attrition. |
+| 2096–2105 | Maintenance era and technical attrition. Working birth year for Elias Voss: 2096. |
 | 2106–2113 | Increasing scarcity and social control. |
-| 2114 | Final cascade and the events of the story. |
+| 2114 | Final cascade and the events of the story, after Elias’s eighteenth birthday. |
 
 The proposed war leaves sealed facilities on Earth operating. A separate final cascade involving autonomous industrial and environmental systems is proposed decades later. The early export describes Earth as unstable or uninhabitable and still dying during the story. The degree and timing of habitability loss, how the final cascade works, and when the dependent settlements fail remain open. [Later handoff, Proposed Chronology](../07-archive/imports/codex-prompt-4/handoff/CONVERSATION_HANDOFF.md) · [Canon review](../07-archive/imports/codex-prompt-4/handoff/CANON_REVIEW.md) · [Original transcript, Outline Evolution and Story Web / Beats](../07-archive/imports/codex-prompt-4/sources/original_export/transcript.txt)

@@ -5,7 +5,7 @@ canon_status: provisional
 
 # Imported causal spine
 
-Use the [Elias, Marcus, and Ava relationship outline](elias-marcus-ai-relationship-arc.md) alongside this technical spine. Its scene labels describe an independent development sequence. Interleaving is open, including how Marcus's absence fits around his appearances in the Empty Rack and the Pattern.
+Use the [Elias, Marcus, and Ava relationship outline](elias-marcus-ai-relationship-arc.md) alongside this technical spine. Its scene labels describe an independent development sequence. The provisional sequence below interleaves the two arcs.
 
 The early outline centers on capable engineers, logistics personnel, medical staff, and analysts trying to keep the habitat and city alive. Earlier choices keep enough systems and data operating to discover a genuine fix. Those choices also leave too little of the material needed to use or send it. The precise link between each decision and each resource loss is open. [Original transcript, Outline Evolution and Story Web / Beats](../07-archive/imports/codex-prompt-4/sources/original_export/transcript.txt)
 
@@ -23,7 +23,15 @@ The early outline centers on capable engineers, logistics personnel, medical sta
 
 ## Stay Until Morning (provisional placement)
 
-Place the [first draft](../04-manuscript/drafts/01-01-stay-until-morning.md) provisionally before the Valve in the current Chapter 1 layout. The scene needs an overnight interval early in the story and before the falling out. Elias freezes during a frightening emergency and withdraws in shame. Marcus finds him and stays, establishing the fatherly care Elias will understand differently after Marcus is gone. Let the Valve and Empty Rack retain their existing causal link. Confirm the opening order and the alarm's relation, if any, to the station crisis before fixing the placement. [Relationship development](elias-marcus-ai-relationship-arc.md#stay-until-morning)
+Place the [first draft](../04-manuscript/drafts/01-01-stay-until-morning.md) provisionally before the Valve in the current Chapter 1 layout. The scene needs an overnight interval early in the story and before the falling out. Elias freezes during a frightening emergency and withdraws in shame. Marcus finds him and stays, establishing the fatherly care Elias will understand differently after Marcus is gone. Let the Valve and Empty Rack retain their existing causal link. Use the auxiliary-control alarm as the first warning of intermittent coolant-flow instability. The automatic backup restores flow before anyone is hurt, leaving a full night cycle for the scene. The instability returns after morning shift begins, and the backup can no longer hold. That escalation forces the Valve decision. [Relationship development](elias-marcus-ai-relationship-arc.md#stay-until-morning)
+
+## Working sequence (provisional)
+
+1. **The Valve and Empty Rack.** Lena authorizes the catalyst-consuming emergency response to keep people alive. Elias and Marcus find the gel depleted. Marcus supports Elias through that discovery.
+2. **The Second Call.** Lena keeps the data stream running. Later, those data allow Elias and Marcus to reconstruct the rescue protocol at the Pattern. Place their falling out between Empty Rack and the Pattern. They can still work together under pressure while the personal dispute remains unresolved.
+3. **After the Pattern.** Marcus's last technical contribution is helping reconstruct the protocol. When a later failure forces emergency isolation, he stays behind to help clear a failing section and is cut off before he and Elias can reconcile. Establish Marcus’s safety-policy authority and Lena’s logistics and operations authority earlier. Before the isolation crisis, Marcus uses his access to write a rule requiring Ava to protect Elias from certain death.
+4. **Inventory and Ava's refusal.** Inventory establishes that the protocol needs catalyst already spent at the Valve. Check encoding crystals separately as a possible transmission bottleneck. Elias asks Ava to reopen the isolated section so he can try to save Marcus. The system determines that reopening it for the attempt would certainly kill them both. Ava enforces Marcus’s rule and denies the request, keeping Elias alive. Marcus dies in the isolated section before they can reconcile. The catalyst spent at the Valve still prevents the Earth rescue.
+5. **The Blister.** Elias records how the decisions that kept the station and data alive also left the crew unable to use what they discovered. By then, he has begun to understand what Marcus chose to give him.
 
 ## Chapter and diagram variants
 
