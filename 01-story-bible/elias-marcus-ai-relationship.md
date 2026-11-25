@@ -36,3 +36,9 @@ Before the falling out, Elias freezes during a frightening emergency despite kno
 Ava adapts her presentation to Elias and remains warm as his understanding changes. She undergoes no genuine emotional growth. Elias discovers why her responses felt so personally meaningful and realizes that the ability to make him feel loved differs from loving him.
 
 The [scene-development outline](../03-outlines/elias-marcus-ai-relationship-arc.md) holds the proposed execution. The [open questions](../OPEN_QUESTIONS.md#elias-marcus-and-the-ai-interface) track the circumstances of Marcus's loss, scene mechanics, and the scope of machine consciousness.
+
+## Ava's appearance to Elias
+
+Ava appears to Elias as a young adult about his own age, in the form he imagines for her. She has bright green eyes, freckles, a slender jaw tapering to a small rounded chin, and smooth cheeks without dimples. Her sandy beige blonde hair has a soft side part, a sweep that frames her face, and a few loose strands. She tucks the shorter sweep behind one ear and wears the rest in a loose three-strand braid over one shoulder.
+
+The [v15 portrait](../05-artwork/concept-art/ava/ava-concept-v15.png) is the approved visual reference for her face and hair.

@@ -28,5 +28,5 @@ Each current prompt contains the complete text used for its matching portrait. U
 
 ## Design notes for v01
 
-- Ava’s first pass keeps the freckles, brown eyes, warmth, and utility clothing from her earlier appearance notes. The jaw-length bob, relaxed jacket, and sleeve-edge translucency are proposals for her public presentation. Her nonphysical avatar and reassuring manner come from the [Story Bible](../01-story-bible/elias-marcus-ai-relationship.md#the-ai-interfaces-dramatic-function).
+- Ava’s v15 portrait sets the reference for her face and sandy blonde side braid in scenes with Elias. Use the portrait to match her green eyes, freckles, and tapered jaw. The [Story Bible](../01-story-bible/elias-marcus-ai-relationship.md#avas-appearance-to-elias) records her approved appearance.
 - Elias’s age of eighteen is established. Marcus’s late forties and Lena’s mid-thirties come from provisional profiles. The facial features, clothing, and palette in the three human portraits are visual proposals. [Characters](../02-characters/README.md)

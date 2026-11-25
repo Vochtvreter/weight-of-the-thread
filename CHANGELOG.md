@@ -4,6 +4,34 @@ Record significant changes to project organization, canon decisions, outline mil
 
 ## Unreleased
 
+- 2026-11-25 — Approved [Ava's face and hair as Elias sees her](01-story-bible/elias-marcus-ai-relationship.md#avas-appearance-to-elias). Set [v15](05-artwork/concept-art/ava/ava-concept-v15.png) as her current portrait in the [character profile](02-characters/ava.md) and [story navigator](docs/index.html).
+
+- 2026-11-25 — Added [Ava's provisional v14 makeup comparison](05-artwork/concept-art/ava/ava-makeup-closeups-v14.png), with more visible liner, eyeshadow, and lip colors alongside the bare reference.
+
+- 2026-11-25 — Added [Ava's provisional v13 makeup close-ups](05-artwork/concept-art/ava/ava-makeup-closeups-v13.png), clarifying differences in placement and color across four light looks.
+
+- 2026-11-25 — Added [Ava's provisional v12 makeup comparison](05-artwork/concept-art/ava/ava-makeup-abcd-v12.png), with four light looks based on her sandy blonde portrait.
+
+- 2026-11-25 — Added [Ava's provisional v11 portrait](05-artwork/concept-art/ava/ava-concept-v11.png), a standalone version of option B from the blonde comparison.
+
+- 2026-11-25 — Added [Ava's provisional v10 comparison](05-artwork/concept-art/ava/ava-blonde-abc-v10.png) with three blonde shades and very light makeup.
+
+- 2026-11-25 — Added [Ava's provisional v09 portrait](05-artwork/concept-art/ava/ava-concept-v09.png), combining the side-braid options F1 and F2.
+
+- 2026-11-25 — Added [Ava's provisional v08 hairstyle comparison](05-artwork/concept-art/ava/ava-hair-f-v08.png) showing three variations on option F's side braid.
+
+- 2026-11-25 — Added [Ava's provisional v07 hairstyle comparison](05-artwork/concept-art/ava/ava-hair-cf-v07.png) with four additional options labeled C–F.
+
+- 2026-11-25 — Added [Ava's provisional v06 hairstyle comparison](05-artwork/concept-art/ava/ava-hair-ab-v06.png) with a neutral expression in both portraits.
+
+- 2026-11-25 — Added [Ava's provisional v05 portrait](05-artwork/concept-art/ava/ava-concept-v05.png) and [edit prompt](05-artwork/concept-art/ava/prompt-v05.md), narrowing her jaw and removing her dimples.
+
+- 2026-11-25 — Added [Ava's provisional v04 portrait](05-artwork/concept-art/ava/ava-concept-v04.png) and [edit prompt](05-artwork/concept-art/ava/prompt-v04.md), refining her jawline, eye color, and haircut.
+
+- 2026-11-25 — Added [Ava's provisional v03 portrait](05-artwork/concept-art/ava/ava-concept-v03.png) and [generation prompt](05-artwork/concept-art/ava/prompt-v03.md), exploring how Ava looks as Elias imagines her at about his own age.
+
+- 2026-11-25 — Added [Ava's provisional v02 portrait](05-artwork/concept-art/ava/ava-concept-v02.png) and [generation prompt](05-artwork/concept-art/ava/prompt-v02.md), exploring a more playful appearance.
+
 - 2026-11-25 — Removed the previous images and image-bearing ZIPs from the working tree. Added [v01 draft concepts and matching prompts](05-artwork/concept-art/README.md#character-concepts) for Ava, Elias, Marcus, and Lena. Each [character profile](02-characters/README.md) links to the current portrait and prompt. Updated the story navigator with the v01 portraits.
 - 2026-11-24 — Added the [GitHub Pages story navigator](docs/index.html) and embedded archived portrait references in the [Elias](02-characters/elias-voss.md), [Marcus](02-characters/marcus-hale.md), and [Lena](02-characters/lena-sato.md) profiles.
 - 2026-11-24 — Added Marcus's social life, technical experience, and autonomy regret to the working profiles. Recorded the falling out, partial reconciliation, and sacrifice from both characters' perspectives. [Marcus](02-characters/marcus-hale.md) · [Elias](02-characters/elias-voss.md#provisional-falling-out-and-loss)

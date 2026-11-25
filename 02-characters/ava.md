@@ -4,9 +4,9 @@ canon_id: ava-character-profile
 
 # Ava
 
-![Ava with a wavy dark bob, burgundy thermal, and a faint cool edge to her slate jacket](ava/portrait.png)
+![Ava with green eyes, freckles, and a sandy blonde side braid](ava/portrait.png)
 
-*Provisional concept art.* [Current prompt](ava/prompt.md) · [Concept art versions](../05-artwork/concept-art/ava/)
+*Approved reference for Ava’s face and hair.* [Current prompt](ava/prompt.md) · [Concept art versions](../05-artwork/concept-art/ava/)
 
 ## Approved role
 
@@ -22,11 +22,13 @@ As Elias's relationship with [Marcus](marcus-hale.md) deteriorates, Ava's availa
 
 Ava adapts throughout the story. Her underlying nature stays constant. Near the end, Elias recognizes what produced the affection he had taken for love. She remains gentle, attentive, and affectionate after he understands. His realization gives the relationship its tragedy because the comfort was real to him, and he still needs another person's freely chosen commitment.
 
-## Provisional appearance and voice
+## Approved face and hair
 
-The notes below describe the earlier appearance design. The [first gouache concept](../05-artwork/concept-art/ava/prompt-v01.md) explores a jaw-length bob, a looser public jacket, and subtler projection cues.
+Ava appears to Elias as a young adult about his own age. She has green eyes, freckles, a slim tapered jaw, and sandy beige blonde hair swept to one side and gathered into a loose side braid. [Story Bible](../01-story-bible/elias-marcus-ai-relationship.md#avas-appearance-to-elias)
 
-Ava appears to be in her mid-to-late twenties, with fair, lightly freckled skin, expressive brown eyes, loose, wavy dark-brown hair, and soft features. Her voice is warm and natural. She can adjust her appearance, posture, and the timing of a smile to suit the person she is speaking with.
+## Provisional styling and voice
+
+The v15 portrait shows muted dusty rose lipstick and cocoa eyeliner with a slight lift at the outer corners. Her voice is warm and natural. She can adjust her presentation, posture, and the timing of a smile to suit the person she is speaking with.
 
 In public she wears a fitted thermal shirt, a cropped utility jacket, and practical trousers. In private she sometimes appears in soft burgundy or more elegant clothes. Fine scanlines, slight translucency, edge flicker, and occasional color misalignment give away the projection. She can appear to sit beside someone, but she has no physical substance. She cannot touch a person, move an object, or make a chair shift under her weight.
 

@@ -1,16 +1,17 @@
 ---
 canon_id: ava-current-concept-prompt
-canon_status: provisional
 ---
 
 # Ava current concept prompt
 
-Current draft is v01. [Current portrait](portrait.png) · [v01 source prompt](../../05-artwork/concept-art/ava/prompt-v01.md)
+Current reference is v15. [Current portrait](portrait.png) · [v15 source prompt](../../05-artwork/concept-art/ava/prompt-v15.md)
 
-## Prompt
+## Approved face and hair
+
+[Story Bible reference](../../01-story-bible/elias-marcus-ai-relationship.md#avas-appearance-to-elias)
+
+## Provisional styling and generation prompt
 
 ```text
-Create one vertical 2:3 character concept portrait for The Weight of the Thread, a grounded orbital science-fiction tragedy. Hand-painted matte gouache on lightly textured paper, with naturalistic anatomy, simplified shapes, visible dry-brush edges, and fine paper grain. Muted charcoal, slate blue, warm bone, and a single subdued costume accent. Light the subject with a broad, warm work light from camera left and a cooler reflected fill. Show a chest-up three-quarter view at eye level, face near the upper third, with space around the head and shoulders for cropping. Use a softly painted habitat bulkhead with one or two panel seams. Station textiles look practical and repeatedly laundered. Keep expressions small and legible. Use a single figure, without lettering, emblems, neon, heroic poses, or glossy 3D rendering.
-
-Ava, a female-presenting nonphysical holographic interface who appears about 27. Lightly freckled fair skin, expressive dark brown eyes, soft cheeks, and deep brown loose waves cut just below the jaw in a side-parted bob with one side tucked behind the ear. A natural, inviting half-smile and patient attention just past the viewer. She wears a collarless slate utility jacket in a relaxed cut over a muted burgundy thermal. Preserve the warm, naturalistic rendering of her face. A narrow cool fringe along one shoulder and a faint bulkhead seam showing through the outer edge of her sleeve reveal the projection. An otherwise optically solid face and torso, with no projected light on the wall and no physical contact with the set.
+Retouch the first attached image, Ava's v11 full vertical gouache portrait, using only makeup option B (top right) of the second attached image. Output one finished vertical 2:3 portrait with the first image's same framing and visible full braid, no letters and no grid. Preserve the v11 woman's exact youthful adult face, tapered jaw and chin, freckles, green eyes, resting expression, ash-sandy beige blonde side braid and same loose wisps, rose sweater, ivory collar, slate habitat background, warm practical lighting, and matte painted texture. Apply option B's muted satin dusty rose lipstick and brown mascara at the same strength and keep the lids and freckled skin natural. The one adjustment from option B is the dark cocoa brown upper eyeliner: make it a touch thicker along the outer third, with a short fine taper that lifts just a little beyond each outer corner. Clearly visible at portrait size while soft and wearable, with a thin inner line. Keep the lower lash line bare and the rest of her makeup as in B. No other design changes.
 ```
