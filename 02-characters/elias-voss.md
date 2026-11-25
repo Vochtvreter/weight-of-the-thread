@@ -4,9 +4,9 @@ canon_id: import-elias-voss
 
 # Elias Voss
 
-![Archived pencil portrait tentatively identified as Elias Voss](../07-archive/imports/codex-prompt-4/sources/original_export/rendered/AFabk.jpg)
+![Elias Voss with dark curls and an oversized charcoal work collar](elias-voss/portrait.png)
 
-*Provisional reference · tentative identification.*
+*Provisional concept art.* [Current prompt](elias-voss/prompt.md) · [Concept art versions](../05-artwork/concept-art/elias-voss/)
 
 ## Approved emotional development
 

@@ -1,5 +1,7 @@
 # Source Manifest
 
+The inventory below describes the original import. The image files and both ZIPs were removed from the working tree during the art reset. The pre-reset copies are in Git at commit `fe7b3f7245c3ef01599983713de81fc3c227c679`. The transcript and editorial notes are available at the paths below.
+
 - `sources/original_export_UNMODIFIED.zip`: original user-supplied ZIP, retained byte-for-byte.
 - `sources/original_export/transcript.txt`: original earlier-conversation transcript, Nov 7–15, 2026.
 - `sources/original_export/story_web.svg`: original story web diagram.

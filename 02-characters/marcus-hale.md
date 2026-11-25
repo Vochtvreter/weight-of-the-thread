@@ -4,9 +4,9 @@ canon_id: import-marcus-hale
 
 # Marcus Hale
 
-![Archived pencil portrait tentatively identified as Marcus Hale](../07-archive/imports/codex-prompt-4/sources/original_export/rendered/GhgAa.jpg)
+![Marcus Hale with salt-and-pepper hair, a short beard, and a canvas work jacket](marcus-hale/portrait.png)
 
-*Provisional reference · tentative identification.*
+*Provisional concept art.* [Current prompt](marcus-hale/prompt.md) · [Concept art versions](../05-artwork/concept-art/marcus-hale/)
 
 ## Approved relationship and character direction
 

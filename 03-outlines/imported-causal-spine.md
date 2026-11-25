@@ -19,7 +19,7 @@ The early outline centers on capable engineers, logistics personnel, medical sta
 | F. Inventory | Logs confirm depletion, and the protocol cannot be sent. | The cinematic diagram names exhausted catalyst and encoding crystals and says alternatives fail. The sources leave their separate functions and depletion history unresolved. |
 | G. The Blister | Elias writes from the observation blister while Earth dies. Knowledge fails to reach Earth and humanity ultimately goes extinct in the early premise. | The cinematic diagram shows Elias recording the decisions as Earth goes dark. Later notes keep the public synopsis spoiler-free. |
 
-[Original transcript](../07-archive/imports/codex-prompt-4/sources/original_export/transcript.txt) · [Original SVG](../07-archive/imports/codex-prompt-4/sources/original_export/story_web.svg) · [Later handoff, Plot and Alternative Path](../07-archive/imports/codex-prompt-4/handoff/CONVERSATION_HANDOFF.md) · [Cinematic diagram](../07-archive/imports/codex-prompt-4/artwork/causal_spine_cinematic_infographic.png)
+[Original transcript](../07-archive/imports/codex-prompt-4/sources/original_export/transcript.txt) · [Later handoff, Plot and Alternative Path](../07-archive/imports/codex-prompt-4/handoff/CONVERSATION_HANDOFF.md)
 
 ## Stay Until Morning (provisional placement)
 
@@ -41,4 +41,4 @@ The crew gets a routine problem in hand, and Elias sees Lena give a correction t
 - The vertical JPEG places A above the Chapter 1 boundary, groups B–C inside it, and draws separate arrows from D and E into F. The horizontal JPEG shows the connector from D pointing into F and draws no connector from F to G. The SVG routes the post-D connector toward the E/F area and shows F leading to G.
 - The cinematic diagram gives a continuous seven-beat sequence and no chapter boundaries. The chapter opening and exact dependencies remain for author review.
 
-[Original SVG](../07-archive/imports/codex-prompt-4/sources/original_export/story_web.svg) · [Horizontal JPEG](../07-archive/imports/codex-prompt-4/sources/original_export/rendered/jiLN4.jpg) · [Vertical JPEG](../07-archive/imports/codex-prompt-4/sources/original_export/rendered/VHPxT.jpg) · [Cinematic diagram](../07-archive/imports/codex-prompt-4/artwork/causal_spine_cinematic_infographic.png)
+[Retired diagram references](../05-artwork/imported-artwork-index.md#retired-artwork)

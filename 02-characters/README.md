@@ -6,4 +6,4 @@ Provisional profiles from the import: [Elias Voss](elias-voss.md), [Marcus Hale]
 
 [Ava's approved identity and dramatic function](../01-story-bible/elias-marcus-ai-relationship.md#the-ai-interfaces-dramatic-function) are recorded in the Story Bible.
 
-[Ava’s character profile](ava.md) also includes provisional appearance notes and a portrait.
+Each profile links to the character’s current `portrait.png` and `prompt.md` and to their [versioned concept art](../05-artwork/concept-art/). See the [visual style guide](../05-artwork/visual-style-and-character-prompts.md) for the shared art direction.

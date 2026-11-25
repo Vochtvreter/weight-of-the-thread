@@ -48,5 +48,5 @@ The [open questions register](../../OPEN_QUESTIONS.md) tracks the decisions on c
 - [Story Bible](../../01-story-bible/README.md) indexes the creative brief, history, and habitat and technology notes.
 - [Character profiles](../../02-characters/README.md) link Elias, Marcus, and Lena to source passages.
 - [Causal spine](../../03-outlines/imported-causal-spine.md) aligns the working plot with its alternate diagrams.
-- [Artwork index](../../05-artwork/imported-artwork-index.md) describes and links every visual source. The artwork files remain at their original paths within the import directory.
+- [Artwork index](../../05-artwork/imported-artwork-index.md) describes the retired visual sources. The [source manifest](codex-prompt-4/handoff/SOURCE_MANIFEST.md) records where to find the originals in Git history.
 - The package contains a teaser and outline material. It contains no manuscript chapters or standalone scientific references.

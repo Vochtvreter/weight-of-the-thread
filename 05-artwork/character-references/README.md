@@ -1,3 +1,3 @@
 # Character references
 
-Store full-resolution portraits and character studies here. The imported portraits are listed in the [artwork index](../imported-artwork-index.md) with links to the archived files.
+Store reference sheets and visual studies here. [Versioned character portraits and prompts](../concept-art/README.md#character-concepts) and the [current references in each character’s profile](../../02-characters/README.md) have their own locations.

@@ -5,9 +5,9 @@ canon_status: provisional
 
 # Lena Sato
 
-![Archived pencil portrait with an L. Sato Habitat Operations patch](../07-archive/imports/codex-prompt-4/sources/original_export/rendered/VEHHz.jpg)
+![Lena Sato with a dark bob and a rugged tablet](lena-sato/portrait.png)
 
-*Provisional reference.*
+*Provisional concept art.* [Current prompt](lena-sato/prompt.md) · [Concept art versions](../05-artwork/concept-art/lena-sato/)
 
 ## Habitat operations
 

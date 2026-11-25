@@ -1,5 +1,7 @@
 # The Weight of the Thread — Codex Import Pack
 
+> Historical import instructions. See the [source manifest](handoff/SOURCE_MANIFEST.md) for the Git revision containing the retired images and ZIP packages.
+
 This pack is for **Prompt 4: Import existing work**. It is source material, NOT an approved canon database.
 
 ## Import order
