@@ -4,6 +4,18 @@ Record significant changes to project organization, canon decisions, outline mil
 
 ## Unreleased
 
+- 2026-11-26 — Locked [Ava's appearance as Elias sees her](01-story-bible/elias-marcus-ai-relationship.md#avas-appearance-to-elias), pairing her [v15 face and hair](05-artwork/concept-art/ava/ava-concept-v15.png) with the [v22 full-body reference](05-artwork/concept-art/ava/ava-full-body-v22.png) based on option D.
+
+- 2026-11-26 — Added [Ava's provisional v21 body comparison](05-artwork/concept-art/ava/ava-body-options-v21.png), with five proportion options at the same apparent height.
+
+- 2026-11-26 — Added [Ava's provisional v20 full-body study](05-artwork/concept-art/ava/ava-full-body-v20.png), with shorter legs and a longer torso at the same overall height.
+
+- 2026-11-26 — Added [Ava's provisional v18 full-body portrait](05-artwork/concept-art/ava/ava-full-body-v18.png), with slightly narrower shoulders.
+
+- 2026-11-26 — Added [Ava's provisional v17 full-body portrait](05-artwork/concept-art/ava/ava-full-body-v17.png), refining the author's choice of study B with slightly taller proportions.
+
+- 2026-11-25 — Added [Ava's provisional v16 full-body studies](05-artwork/concept-art/ava/prompt-v16.md) with three builds based on her approved face and hair reference.
+
 - 2026-11-25 — Approved [Ava's face and hair as Elias sees her](01-story-bible/elias-marcus-ai-relationship.md#avas-appearance-to-elias). Set [v15](05-artwork/concept-art/ava/ava-concept-v15.png) as her current portrait in the [character profile](02-characters/ava.md) and [story navigator](docs/index.html).
 
 - 2026-11-25 — Added [Ava's provisional v14 makeup comparison](05-artwork/concept-art/ava/ava-makeup-closeups-v14.png), with more visible liner, eyeshadow, and lip colors alongside the bare reference.

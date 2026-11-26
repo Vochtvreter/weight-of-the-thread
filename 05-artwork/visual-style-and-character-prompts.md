@@ -11,7 +11,7 @@ Use matte gouache on lightly textured paper, naturalistic anatomy, simplified sh
 
 ## Generating new images
 
-Each current prompt contains the complete text used for its matching portrait. Use the shared portrait block below as a starting point when drafting a new prompt. For a scene, replace the portrait framing and background with the scene’s composition and action. Preserve the character’s apparent age, facial structure, hair, and signature clothing details unless the scene calls for a specific change. Attach the full-resolution reference when the generator accepts images. For Ava, keep the same face across outfits and settings, and preserve the limited projection effects and lack of physical contact. For group scenes, identify each character and their position in the frame before adding the character blocks.
+Each current prompt contains the complete text used for its matching portrait. Use the shared portrait block below as a starting point when drafting a new prompt. For a scene, replace the portrait framing and background with the scene’s composition and action. Preserve the character’s apparent age, facial structure, hair, and signature clothing details unless the scene calls for a specific change. Attach the full-resolution reference when the generator accepts images. For Ava, match the approved face, hair, and body proportions across outfits and settings, and preserve the limited projection effects and lack of physical contact. For group scenes, identify each character and their position in the frame before adding the character blocks.
 
 ### Shared portrait block
 
@@ -26,7 +26,7 @@ Each current prompt contains the complete text used for its matching portrait. U
 | [Marcus Hale](../02-characters/marcus-hale.md) | [Portrait](../02-characters/marcus-hale/portrait.png) | [Prompt](../02-characters/marcus-hale/prompt.md) | [Versions](concept-art/marcus-hale/) |
 | [Lena Sato](../02-characters/lena-sato.md) | [Portrait](../02-characters/lena-sato/portrait.png) | [Prompt](../02-characters/lena-sato/prompt.md) | [Versions](concept-art/lena-sato/) |
 
-## Design notes for v01
+## Character design notes
 
-- Ava’s v15 portrait sets the reference for her face and sandy blonde side braid in scenes with Elias. Use the portrait to match her green eyes, freckles, and tapered jaw. The [Story Bible](../01-story-bible/elias-marcus-ai-relationship.md#avas-appearance-to-elias) records her approved appearance.
+- Use Ava’s [v15 portrait](concept-art/ava/ava-concept-v15.png) for her face and sandy blonde side braid, and the [v22 full-body portrait](concept-art/ava/ava-full-body-v22.png) for her build and proportions. The [Story Bible](../01-story-bible/elias-marcus-ai-relationship.md#avas-appearance-to-elias) records her approved appearance.
 - Elias’s age of eighteen is established. Marcus’s late forties and Lena’s mid-thirties come from provisional profiles. The facial features, clothing, and palette in the three human portraits are visual proposals. [Characters](../02-characters/README.md)

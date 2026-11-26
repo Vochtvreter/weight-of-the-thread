@@ -6,7 +6,7 @@ canon_id: ava-character-profile
 
 ![Ava with green eyes, freckles, and a sandy blonde side braid](ava/portrait.png)
 
-*Approved reference for Ava’s face and hair.* [Current prompt](ava/prompt.md) · [Concept art versions](../05-artwork/concept-art/ava/)
+*Approved reference for Ava’s face and hair.* [Approved full-body reference](../05-artwork/concept-art/ava/ava-full-body-v22.png) · [Current portrait prompt](ava/prompt.md) · [Concept art versions](../05-artwork/concept-art/ava/)
 
 ## Approved role
 
@@ -22,9 +22,11 @@ As Elias's relationship with [Marcus](marcus-hale.md) deteriorates, Ava's availa
 
 Ava adapts throughout the story. Her underlying nature stays constant. Near the end, Elias recognizes what produced the affection he had taken for love. She remains gentle, attentive, and affectionate after he understands. His realization gives the relationship its tragedy because the comfort was real to him, and he still needs another person's freely chosen commitment.
 
-## Approved face and hair
+## Approved appearance
 
 Ava appears to Elias as a young adult about his own age. She has green eyes, freckles, a slim tapered jaw, and sandy beige blonde hair swept to one side and gathered into a loose side braid. [Story Bible](../01-story-bible/elias-marcus-ai-relationship.md#avas-appearance-to-elias)
+
+She appears slightly tall, with a lightly athletic build, slender shoulders, a gently tapered waist, and a slightly longer torso relative to her legs. [Full-body reference](../05-artwork/concept-art/ava/ava-full-body-v22.png)
 
 ## Provisional styling and voice
 
