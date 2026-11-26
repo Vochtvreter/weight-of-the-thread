@@ -4,6 +4,18 @@ Record significant changes to project organization, canon decisions, outline mil
 
 ## Unreleased
 
+- 2026-11-26 — Added [Ava's provisional v33 proportion study](05-artwork/concept-art/ava/prompt-v33.md), testing a slightly straighter hip silhouette with a standalone prompt.
+
+- 2026-11-26 — Added [Ava's provisional v32 narrow-hip study](05-artwork/concept-art/ava/prompt-v32.md) and documented her [standalone text-only prompt workflow](05-artwork/visual-style-and-character-prompts.md#ava-prompts-are-text-only).
+
+- 2026-11-26 — Added [Ava's provisional v31 holographic lingerie illustration](05-artwork/concept-art/ava/ava-prismatic-ribbon-v31.png), generated from the [corrected text-only prompt](05-artwork/concept-art/ava/prompt-v31.md).
+
+- 2026-11-26 — Corrected [Ava's approved build description](01-story-bible/elias-marcus-ai-relationship.md#avas-appearance-to-elias) to describe her fine frame and v28 proportions. Updated her [profile](02-characters/ava.md#approved-appearance) and the [reusable art prompt wording](05-artwork/visual-style-and-character-prompts.md#character-design-notes).
+
+- 2026-11-26 — Added [Ava's provisional v30 text-only proportion test](05-artwork/concept-art/ava/prompt-v30.md) and recorded more specific wording for her hip contour in the [visual style guide](05-artwork/visual-style-and-character-prompts.md#character-design-notes).
+
+- 2026-11-26 — Added [Ava's provisional v29 text-only wardrobe test](05-artwork/concept-art/ava/prompt-v29.md), with five new holographic outfits generated from standalone prompts.
+
 - 2026-11-26 — Locked [Ava's narrower hip silhouette](01-story-bible/elias-marcus-ai-relationship.md#avas-appearance-to-elias) and adopted the [v28 plum lace portrait](05-artwork/concept-art/ava/ava-plum-lace-v28.png) as her full-body reference.
 
 - 2026-11-26 — Added [Ava's provisional v28 wardrobe retouches](05-artwork/concept-art/ava/prompt-v28.md), narrowing the hip silhouette slightly further in the five v27 scenes.

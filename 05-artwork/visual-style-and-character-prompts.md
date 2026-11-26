@@ -11,7 +11,11 @@ Use matte gouache on lightly textured paper, naturalistic anatomy, simplified sh
 
 ## Generating new images
 
-Each current prompt contains the complete text used for its matching portrait. Use the shared portrait block below as a starting point when drafting a new prompt. For a scene, replace the portrait framing and background with the scene’s composition and action. Preserve the character’s apparent age, facial structure, hair, and signature clothing details unless the scene calls for a specific change. Attach the full-resolution reference when the generator accepts images. For Ava, match the approved face, hair, and body proportions across outfits and settings, and preserve the limited projection effects and lack of physical contact. For group scenes, identify each character and their position in the frame before adding the character blocks.
+Versioned prompt files record the text used for their matching artwork. Use the shared portrait block below as a starting point when drafting a new prompt. For a scene, replace the portrait framing and background with the scene’s composition and action. Preserve the character’s apparent age, facial structure, hair, and signature clothing details unless the scene calls for a specific change. For group scenes, identify each character and their position in the frame before adding the character blocks.
+
+### Ava prompts are text-only
+
+Write every Ava prompt as a standalone description. Work from the written character description and include her apparent age, face, hair, body proportions, clothing, pose, and setting in the prompt itself. Describe her projection effects and lack of physical contact when they affect the scene. Generate from the text alone, without basing the prompt on images or attaching image references. [Standalone Ava portrait prompt](../02-characters/ava/prompt.md)
 
 ### Shared portrait block
 
@@ -28,5 +32,9 @@ Each current prompt contains the complete text used for its matching portrait. U
 
 ## Character design notes
 
-- Use Ava’s [v15 portrait](concept-art/ava/ava-concept-v15.png) for her face and sandy blonde side braid, and the [v28 plum lace portrait](concept-art/ava/ava-plum-lace-v28.png) for her build, proportions, and narrower hips. The [Story Bible](../01-story-bible/elias-marcus-ai-relationship.md#avas-appearance-to-elias) records her approved appearance.
+- Ava’s approved face, sandy blonde side braid, frame, and narrower hips are described in the [Story Bible](../01-story-bible/elias-marcus-ai-relationship.md#avas-appearance-to-elias).
+- For current text-only prompts, use the description below to capture her frame and proportions.
+
+  > Ava is a slightly tall, fine-framed young adult with slender shoulders and a gently tapered waist. Seen from the front, her hips are a little narrower than her shoulder span. The waist flows into a shallow outward curve at her hips and then into relatively straight outer upper thighs. Her torso is slightly longer relative to her legs, and her lower legs are proportionally shorter.
+
 - Elias’s age of eighteen is established. Marcus’s late forties and Lena’s mid-thirties come from provisional profiles. The facial features, clothing, and palette in the three human portraits are visual proposals. [Characters](../02-characters/README.md)
