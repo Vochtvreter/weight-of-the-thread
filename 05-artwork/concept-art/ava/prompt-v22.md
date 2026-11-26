@@ -6,9 +6,9 @@ canon_id: ava-full-body-study-prompt-v22
 
 [Standalone full-body portrait](ava-full-body-v22.png) generated with OpenAI image generation on 2026-11-26 based on the author's choice of D in the [v21 comparison](ava-body-options-v21.png) and the [approved v15 face and hair](ava-concept-v15.png).
 
-## Approved body proportions
+## Earlier body reference
 
-The [Story Bible](../../../01-story-bible/elias-marcus-ai-relationship.md#avas-appearance-to-elias) records the approved build and proportions shown in v22.
+v22 was the first approved body reference. The [v28 plum lace portrait](ava-plum-lace-v28.png) is the current reference and shows the narrower hips recorded in the [Story Bible](../../../01-story-bible/elias-marcus-ai-relationship.md#avas-appearance-to-elias).
 
 ## Generation prompt and provisional styling
 

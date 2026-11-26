@@ -4,11 +4,27 @@ Record significant changes to project organization, canon decisions, outline mil
 
 ## Unreleased
 
+- 2026-11-26 — Locked [Ava's narrower hip silhouette](01-story-bible/elias-marcus-ai-relationship.md#avas-appearance-to-elias) and adopted the [v28 plum lace portrait](05-artwork/concept-art/ava/ava-plum-lace-v28.png) as her full-body reference.
+
+- 2026-11-26 — Added [Ava's provisional v28 wardrobe retouches](05-artwork/concept-art/ava/prompt-v28.md), narrowing the hip silhouette slightly further in the five v27 scenes.
+
+- 2026-11-26 — Added [Ava's provisional v27 wardrobe retouches](05-artwork/concept-art/ava/prompt-v27.md), testing a slightly narrower hip silhouette across five scenes.
+
+- 2026-11-26 — Added [Ava's provisional v26 digital wardrobe studies](05-artwork/concept-art/ava/prompt-v26.md), based on the author's digital lace concept.
+
+- 2026-11-26 — Added [Ava's provisional v25 boudoir studies](05-artwork/concept-art/ava/prompt-v25.md), with five new looks under more dramatic lighting in Elias's quarters.
+
+- 2026-11-26 — Added [Ava's provisional v24 boudoir studies](05-artwork/concept-art/ava/prompt-v24.md), with five bolder looks in Elias's quarters.
+
 - 2026-11-26 — Locked [Ava's appearance as Elias sees her](01-story-bible/elias-marcus-ai-relationship.md#avas-appearance-to-elias), pairing her [v15 face and hair](05-artwork/concept-art/ava/ava-concept-v15.png) with the [v22 full-body reference](05-artwork/concept-art/ava/ava-full-body-v22.png) based on option D.
+
+- 2026-11-26 — Added [Ava's provisional v23 studies in Elias's quarters](05-artwork/concept-art/ava/prompt-v23.md), with five outfits and lounging poses.
 
 - 2026-11-26 — Added [Ava's provisional v21 body comparison](05-artwork/concept-art/ava/ava-body-options-v21.png), with five proportion options at the same apparent height.
 
 - 2026-11-26 — Added [Ava's provisional v20 full-body study](05-artwork/concept-art/ava/ava-full-body-v20.png), with shorter legs and a longer torso at the same overall height.
+
+- 2026-11-26 — Added [Ava's provisional v19 wardrobe and pose studies](05-artwork/concept-art/ava/prompt-v19.md), with five full-body illustrations.
 
 - 2026-11-26 — Added [Ava's provisional v18 full-body portrait](05-artwork/concept-art/ava/ava-full-body-v18.png), with slightly narrower shoulders.
 

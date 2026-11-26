@@ -41,6 +41,6 @@ The [scene-development outline](../03-outlines/elias-marcus-ai-relationship-arc.
 
 Ava appears to Elias as a young adult about his own age, in the form he imagines for her. She has bright green eyes, freckles, a slender jaw tapering to a small rounded chin, and smooth cheeks without dimples. Her sandy beige blonde hair has a soft side part, a sweep that frames her face, and a few loose strands. She tucks the shorter sweep behind one ear and wears the rest in a loose three-strand braid over one shoulder.
 
-Ava appears slightly tall, with a lightly athletic build, slender shoulders, and a gentle taper at the waist. Her torso is slightly longer and her lower legs are proportionally shorter, following option D in the [body comparison](../05-artwork/concept-art/ava/ava-body-options-v21.png).
+Ava appears slightly tall, with a lightly athletic build, slender shoulders, and a gentle taper at the waist. Her torso is slightly longer and her lower legs are proportionally shorter. Her hips have a narrower, less flared contour than in the [earlier option D portrait](../05-artwork/concept-art/ava/ava-full-body-v22.png).
 
-Use the [v15 portrait](../05-artwork/concept-art/ava/ava-concept-v15.png) for her face and hair and the [v22 full-body portrait](../05-artwork/concept-art/ava/ava-full-body-v22.png) for her build and proportions.
+Use the [v15 portrait](../05-artwork/concept-art/ava/ava-concept-v15.png) for her face and hair and the [v28 plum lace portrait](../05-artwork/concept-art/ava/ava-plum-lace-v28.png) for her build and proportions.

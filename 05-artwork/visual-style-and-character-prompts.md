@@ -28,5 +28,5 @@ Each current prompt contains the complete text used for its matching portrait. U
 
 ## Character design notes
 
-- Use Ava’s [v15 portrait](concept-art/ava/ava-concept-v15.png) for her face and sandy blonde side braid, and the [v22 full-body portrait](concept-art/ava/ava-full-body-v22.png) for her build and proportions. The [Story Bible](../01-story-bible/elias-marcus-ai-relationship.md#avas-appearance-to-elias) records her approved appearance.
+- Use Ava’s [v15 portrait](concept-art/ava/ava-concept-v15.png) for her face and sandy blonde side braid, and the [v28 plum lace portrait](concept-art/ava/ava-plum-lace-v28.png) for her build, proportions, and narrower hips. The [Story Bible](../01-story-bible/elias-marcus-ai-relationship.md#avas-appearance-to-elias) records her approved appearance.
 - Elias’s age of eighteen is established. Marcus’s late forties and Lena’s mid-thirties come from provisional profiles. The facial features, clothing, and palette in the three human portraits are visual proposals. [Characters](../02-characters/README.md)

@@ -6,7 +6,7 @@ canon_id: ava-character-profile
 
 ![Ava with green eyes, freckles, and a sandy blonde side braid](ava/portrait.png)
 
-*Approved reference for Ava’s face and hair.* [Approved full-body reference](../05-artwork/concept-art/ava/ava-full-body-v22.png) · [Current portrait prompt](ava/prompt.md) · [Concept art versions](../05-artwork/concept-art/ava/)
+*Approved reference for Ava’s face and hair.* [Approved full-body reference](../05-artwork/concept-art/ava/ava-plum-lace-v28.png) · [Current portrait prompt](ava/prompt.md) · [Concept art versions](../05-artwork/concept-art/ava/)
 
 ## Approved role
 
@@ -26,7 +26,7 @@ Ava adapts throughout the story. Her underlying nature stays constant. Near the 
 
 Ava appears to Elias as a young adult about his own age. She has green eyes, freckles, a slim tapered jaw, and sandy beige blonde hair swept to one side and gathered into a loose side braid. [Story Bible](../01-story-bible/elias-marcus-ai-relationship.md#avas-appearance-to-elias)
 
-She appears slightly tall, with a lightly athletic build, slender shoulders, a gently tapered waist, and a slightly longer torso relative to her legs. [Full-body reference](../05-artwork/concept-art/ava/ava-full-body-v22.png)
+She appears slightly tall, with a lightly athletic build, slender shoulders, a gently tapered waist, and slightly narrow hips with a smooth outer contour. Her torso is slightly longer and her lower legs are proportionally shorter. [Full-body reference](../05-artwork/concept-art/ava/ava-plum-lace-v28.png)
 
 ## Provisional styling and voice
 
