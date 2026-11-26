@@ -15,7 +15,7 @@ Versioned prompt files record the text used for their matching artwork. Use the 
 
 ### Ava prompts are text-only
 
-Write every Ava prompt as a standalone description. Work from the written character description and include her apparent age, face, hair, body proportions, clothing, pose, and setting in the prompt itself. Describe her projection effects and lack of physical contact when they affect the scene. Generate from the text alone, without basing the prompt on images or attaching image references. [Standalone Ava portrait prompt](../02-characters/ava/prompt.md)
+Start every Ava prompt with her [reusable appearance block](../02-characters/ava/prompt.md#reusable-appearance-block). Add the scene's wardrobe, pose, expression, and setting to the same prompt. Describe her projection effects and lack of physical contact when they affect the scene. Generate from the text alone. For the standard portrait, use the [portrait direction](../02-characters/ava/prompt.md#standalone-portrait-prompt).
 
 ### Shared portrait block
 
@@ -33,8 +33,4 @@ Write every Ava prompt as a standalone description. Work from the written charac
 ## Character design notes
 
 - Ava’s approved face, sandy blonde side braid, frame, and narrower hips are described in the [Story Bible](../01-story-bible/elias-marcus-ai-relationship.md#avas-appearance-to-elias).
-- For current text-only prompts, use the description below to capture her frame and proportions.
-
-  > Ava is a slightly tall, fine-framed young adult with slender shoulders and a gently tapered waist. Seen from the front, her hips are a little narrower than her shoulder span. The waist flows into a shallow outward curve at her hips and then into relatively straight outer upper thighs. Her torso is slightly longer relative to her legs, and her lower legs are proportionally shorter.
-
 - Elias’s age of eighteen is established. Marcus’s late forties and Lena’s mid-thirties come from provisional profiles. The facial features, clothing, and palette in the three human portraits are visual proposals. [Characters](../02-characters/README.md)

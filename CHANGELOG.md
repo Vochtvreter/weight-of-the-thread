@@ -4,6 +4,8 @@ Record significant changes to project organization, canon decisions, outline mil
 
 ## Unreleased
 
+- 2026-11-26 — Added a [reusable appearance block for Ava](02-characters/ava/prompt.md#reusable-appearance-block) with her approved face, side braid, and slender proportions for text-only scene and portrait prompts.
+
 - 2026-11-26 — Added [Ava's provisional v33 proportion study](05-artwork/concept-art/ava/prompt-v33.md), testing a slightly straighter hip silhouette with a standalone prompt.
 
 - 2026-11-26 — Added [Ava's provisional v32 narrow-hip study](05-artwork/concept-art/ava/prompt-v32.md) and documented her [standalone text-only prompt workflow](05-artwork/visual-style-and-character-prompts.md#ava-prompts-are-text-only).
